@@ -18,7 +18,7 @@ It allows users to search and read summarized Wikipedia articles instantly throu
 - **Version Control:** Git + GitHub
 
 ##  Clone the repository:
-   git clone https://github.com/xNikhilx1/wikisense.git
+   git clone https://github.com/lucyrahul005/Wikisense.git
 🧩 Folder Structure
 pgsql
 Copy code
@@ -35,6 +35,6 @@ wikisense/
 └── vite.config.js
 
 ## 👨‍💻 Author
-Nikhil
-GitHub: xNikhilx1
+Rahul Vardhanapu
+GitHub: lucyrahul005
 
